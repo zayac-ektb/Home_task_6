@@ -96,9 +96,8 @@ int main()
 	cin >> n;
 	cout << " я опять победил: ";
 	factor(n);
-	cout << " :p\n пожалуй хватит игры)";
-	cout << " :p\n пожалуй хватит игры)";
-return 0;
+	cout << " :p\n пожалуй хватит игр)";
+	return 0;
 }
 void factor(int a) {
 	int s = 4;
