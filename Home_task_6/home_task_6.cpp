@@ -97,7 +97,7 @@ int main()
 	cout << " я опять победил: ";
 	factor(n);
 	cout << " :p\n пожалуй хватит игр)";
-	return 0;
+	return 1;
 }
 void factor(int a) {
 	int s = 4;
